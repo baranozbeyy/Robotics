@@ -1,0 +1,10 @@
+C:\Users\baran\source\repos\Robotics\Robotics\bin\Debug\Robotics.exe.config
+C:\Users\baran\source\repos\Robotics\Robotics\bin\Debug\Robotics.exe
+C:\Users\baran\source\repos\Robotics\Robotics\bin\Debug\Robotics.pdb
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.csprojAssemblyReference.cache
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.Form1.resources
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.cache
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.exe
+C:\Users\baran\source\repos\Robotics\Robotics\obj\Debug\Robotics.pdb
